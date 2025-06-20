@@ -11,6 +11,8 @@ In this cumulative lab, you will apply two nonparametric models you have just le
 * Explore multiple model algorithms, and tune their hyperparameters
 * Practice choosing a final model across multiple model algorithms and evaluating its performance
 
+# Check the index.ipynb file for my working
+
 ## Your Task: Complete an End-to-End ML Process with Nonparametric Models on the Forest Cover Dataset
 
 ![line of pine trees](https://curriculum-content.s3.amazonaws.com/data-science/images/trees.jpg)
